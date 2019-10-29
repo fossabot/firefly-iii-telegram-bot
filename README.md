@@ -1,4 +1,6 @@
 # Telegram bot for Firefly III (alfa version! Can contain bugs, please send your issues!)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmay-cat%2Ffirefly-iii-telegram-bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmay-cat%2Ffirefly-iii-telegram-bot?ref=badge_shield)
+
 
 This is bot for [firefly iii](https://github.com/firefly-iii/firefly-iii).
 
@@ -93,3 +95,6 @@ You can contact me by e-mail: i@tsupko.tech or by telegram @i_tsupko
 ### License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmay-cat%2Ffirefly-iii-telegram-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmay-cat%2Ffirefly-iii-telegram-bot?ref=badge_large)
